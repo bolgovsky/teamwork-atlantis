@@ -1,1 +1,1 @@
-resource "null_resource" "tetete" {   }
+resource "null_resource" "tetete" {      }
